@@ -5,10 +5,6 @@ The app offers a range of features to enhance your dining experience. You can se
 
 Using the Zomato app is straightforward. Simply open the app, use the search bar to find restaurants, and explore menus and reviews. When you're ready, you can either book a table or place an order. We strive to provide a seamless and enjoyable user experience.
 
-For any issues or assistance, visit our Support Page or contact us at support@zomato.com. The Zomato app is licensed under the MIT License. We hope you enjoy using the Zomato app to discover and enjoy great food!
-
-
-
-
-
-
+## Team Members
+- RIYA SHARMA(2310992133)
+- LAKSHAY(2310992132)
